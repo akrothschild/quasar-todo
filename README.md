@@ -1,4 +1,4 @@
-# Quasar ToDo (quasar-todo)
+# Quasar ToDo-List (quasar-todo)
 
 todo list
 
